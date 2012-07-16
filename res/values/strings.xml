@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, BaseActivity!</string>
+    <string name="app_name">HexTest</string>
+    <string name="wall">wall</string>
+    <string name="ball">ball</string>
+    <string name="well">well</string>
+    <string name="hex">hex</string>
+    <string name="start">start</string>
+
+</resources>
